@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklayout_component_haeon=self.webpackChunklayout_component_haeon||[]).push([[841],{9319:o=>{o.exports=JSON.parse('{"title":"Layout","slug":"/category/layout","permalink":"/component-docs/docs/category/layout","navigation":{"next":{"title":"Container","permalink":"/component-docs/docs/layout/container"}}}')}}]);
