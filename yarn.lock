@@ -6479,10 +6479,10 @@ gzip-size@^6.0.0:
   dependencies:
     duplexer "^0.1.2"
 
-hae_on-layout-component@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/hae_on-layout-component/-/hae_on-layout-component-0.0.3.tgz#5c871b1ea67d510d4cc41c23411c70021bd611d6"
-  integrity sha512-azyxQSxqkL+GssRczz8WF39AMwFxCcVE4RHk4+PENnw0SnQ7BgaV6TDbkEgPGLC7rEJRIrgpqNtliLUPn8TCug==
+hae_on-layout-component@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/hae_on-layout-component/-/hae_on-layout-component-0.1.4.tgz#fdb7ebbf65ae7af45f0e172d033f6af845f75db2"
+  integrity sha512-i7cMzAYCjDpzY0icYAs34fIGmDrv46gvMmNKI9gCi6MWjVV2leyhP0Z5pYQm80X+YEOhQ3ymg0z2ct4PjhFhzg==
   dependencies:
     "@testing-library/jest-dom" "^5.17.0"
     "@testing-library/react" "^13.4.0"
